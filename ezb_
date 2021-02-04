@@ -1,0 +1,1 @@
+cd $($SCRIPTS_DIR/ezb $1)
