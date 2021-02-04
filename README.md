@@ -12,5 +12,5 @@ echo "cd $($SCRIPTS_DIR/ezb $1)" > ezb_ # this is the ezb_ example file
 ```
 2- add the following to your bash/zsh.rc
 ```bash
-alias ezb="source /any/path/you/want/ezb_ $MENU" # on my system $MENU is dmenu but it can be any alternative
+alias ezb="source /any/path/you/want/ezb_ $MENU" # on my system $MENU is pmenu but it can be any alternative
 ```
