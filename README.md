@@ -1,5 +1,5 @@
 # ezb. easy back in your terminal
-back directories menu maker for dmenu like software, the following example uses pmenu but any dmenu like alternative should work
+back directories menu maker for dmenu like software, the following example uses pmenu but any dmenu-like alternative should work
 ## Demo
 ![ezb_demo](https://raw.githubusercontent.com/A-Siam/ez-b/main/demo.gif?token=AIKY2B3EXIEZTT64DAPTGWTAEV7LO)
 ## Setup
